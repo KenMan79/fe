@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ErrorKind","Errors can either be an object or static reference."]],"fn":[["install_compiler_panic_hook",""]],"struct":[["AnalyzerError",""],["CompileError","List of errors encountered during compilation."]]});

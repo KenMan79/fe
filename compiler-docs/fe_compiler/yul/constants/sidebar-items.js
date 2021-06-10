@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["numeric_min_max","Return a hashmap containing min/max YUL literals for each supported integer size"]]});
